@@ -1,0 +1,53 @@
+# Arquivos temporários
+*~
+
+# Arquivos de compilação
+*.class
+
+# Diretórios de saída de compilação
+/target/
+/bin/
+/out/
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos de configuração do IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Arquivos de configuração do NetBeans
+nbproject/
+
+# Diretório de logs
+logs/
+
+# Diretório de arquivos gerados pelo Maven
+target/
+
+# Diretório de arquivos gerados pelo Gradle
+build/
+
+# Arquivos de histórico de sessão do editor
+.history/
+
+# Arquivos de cache do Maven
+.mvn/
+target/
+
+# Arquivos de cache do Gradle
+.gradle/
+
+# Arquivos de depuração do VS Code
+.vscode/
+
+# Arquivos de configuração do Spring Boot
+spring-boot-*.properties
+
+# Arquivos específicos de IDE/editor
+*.log
+*.swp
+*.swo
